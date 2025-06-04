@@ -101,7 +101,7 @@ pip install -r requirements.txt
 ### 4. Create a `.env` file
 
 env
-DATABASE_URL=postgresql://postgres:<your_password>@localhost:5433/ecommerce_anal
+DATABASE_URL=postgresql://postgres:<your_password>@localhost:5433/ecommerce_analytics
 
 
 > Replace `<your_password>` with your actual PostgreSQL password.
