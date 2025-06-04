@@ -39,7 +39,7 @@ json
   "price": 299.99,
   "in_stock": true
 }
-## GET /items/?in_stock=true&min_price=200
+### GET /items/?in_stock=true&min_price=200
 **Response:**
 json
 [
