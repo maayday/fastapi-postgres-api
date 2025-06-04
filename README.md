@@ -41,9 +41,7 @@ json
 }
 ## GET /items/?in_stock=true&min_price=200
 **Response:**
-
 json
-
 [
   {
     "id": 1,
@@ -52,8 +50,7 @@ json
     "in_stock": true
   }
 ]
-yaml
----
+
 
 
 ## 🧱 Tech Stack
